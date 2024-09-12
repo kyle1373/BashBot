@@ -1,5 +1,5 @@
-#BashBot
-This is a Discord bot which allows users to execute arbitrary code on behalf of a bot.  
+# BashBot
+A Discord bot which allows arbitrary code execution.    
 
 https://github.com/user-attachments/assets/86f0e508-669e-46ce-83a7-1ee7b95f60c8
 
